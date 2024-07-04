@@ -10,3 +10,17 @@
 
 <h2>Conclusion:</h2>
 <p>The project deals with the concept of smart integrated wireless charging and tracking system for elective vehicles using solar energy and IOT. From the project we can conclude that the proposed project can be useful to automatically switch over to the solar energy for the purpose of the charging. We can further conclude that the developed system can easily be scaled to the actual charging stations. The system will perform wireless charging of the electric vehicles and notify the owners the charge regarding the same. The proposed project can also help the users of the electric vehicles to track the location of charging stations nearby making it easier to find out the charging stations. The App is developed which will help the users of the electric vehicles to track the status of charging and the charge using IOT.</p>
+
+# Component required with Bill of Material:
+
+| Item                              | Quantity    | Description                          |    links of products        | 
+| :---:                             | :---:       | :---:                                | :---:                       |
+| ESP32-Devkit                      | 2           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
+| Wireless Charging Module          | 1           | --                                   | https://amzn.in/d/09fDYpCs  |
+| ICC LCD                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
+| Li-Ion Battery Charging Module    | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
+| Solar panel                       | 1           | --                                   | https://amzn.in/d/0iPO9ODt  |
+| RFID Reader                       | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
+| RFID Card                         | 1           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
+| Relay Board                       | 1           | Standard sensor (HC-SR04)            | https://amzn.in/d/09fDYpCs  |
+| Adapter                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
