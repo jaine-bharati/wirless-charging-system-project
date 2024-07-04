@@ -27,8 +27,11 @@
 
 # Pinout diagram
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/fea8ab8c-b55d-4f03-9d84-259d996d9fad)
+
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM (1)](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/06758090-8704-48bf-a9a8-3eb2ffc3f9e8)
+
 ![WhatsApp Image 2024-07-04 at 5 58 17 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/d0fbb2bf-36bc-4c24-86f0-5a208a27930d)
+
 ![WhatsApp Image 2024-07-04 at 5 58 18 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/28914f19-a899-413d-8c34-a39567c50e4b)
 
 
