@@ -7,3 +7,13 @@ The government of India has launched “MISSION EV” to make all the vehicles e
 <h2>OVERVIEW:</h2>
 
 The increased power consumption involves more quality and reliability to regulate electricity flows, less mismatching between electricity generation and demand, and more integrated renewable energies. Thus, the system consists of two charging sources available one is implemented on solar energy system and another is grid based on requirement and availability it automatically swtiches. The wireless system is implemented which will charge the vehicle wirelessly and send the SMS notification to the user regarding the cost of the charge when the charging is complete. The same is displayed on LCD. The second part is Vehicle consisting of RFID reader abd wireless charge reciver. Once charging is completed total cost of charging is calculated and sent to owner using GSM modem. The IOT based application to track different locations of charging stations.
+<h2>Conclusion:</h2>
+The project deals with the concept of smart integrated wireless charging and tracking system for
+elective vehicles using solar energy and IOT. From the project we can conclude that the
+proposed project can be useful to automatically switch over to the solar energy for the purpose of
+the charging. We can further conclude that the developed system can easily be scaled to the
+actual charging stations. The system will perform wireless charging of the electric vehicles and
+notify the owners the charge regarding the same. The proposed project can also help the users of
+the electric vehicles to track the location of charging stations nearby making it easier to find out
+the charging stations. The App is developed which will help the users of the electric vehicles to
+track the status of charging and the charge using IOT.
