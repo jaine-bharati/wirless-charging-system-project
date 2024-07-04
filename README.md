@@ -1,7 +1,7 @@
-"SMART INTEGRATED WIRE/ WIRELESS CHARGING SYSTEM FOR ELECTRIC VEHICLES WITH SOLAR AND GRID ENERGY USING IOT"
-
-INTRODUCTION:
-
+<h2>"SMART INTEGRATED WIRE/ WIRELESS CHARGING SYSTEM FOR ELECTRIC VEHICLES WITH SOLAR AND GRID ENERGY USING IOT"
+</h2>
+<h2>INTRODUCTION:
+</h2>
 The government of India has launched “MISSION EV” to make all the vehicles electric as soon as possible. However, the major drawback faced by the Automobile manufacturers and government is the hurdle of battery life and setting up of charging stations. The battery range and the inability to setup charging stations at all the places is a major challenge faced by electric vehicles. Increasing in the number of travelling vehicles has increasing the problems such as air pollution and to the use of petroleum.Improved quality of life and increased mobility lead to greater consumption of energy resources and implied greenhouse gas emissions. This increased power consumption involves more quality and reliability to regulate electricity flows, less mismatching between electricity generation and demand, and more integrated renewable energies. Thus, the concept of smart grid is born in recent years. A smart grid could be easily defined as the electricity delivery system, which transports, converts and distributes the power efficiently (from producers to consumers), integrated with communications and information technology. In fact, plug-in hybrid electric vehicles (PHEVs) and electric vehicles (EVs) represent an important step in solving environmental problems and are being developed around the world.
 
 <h2>OVERVIEW:</h2>
