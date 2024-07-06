@@ -25,7 +25,7 @@
 | Relay Board                       | 1           | Standard sensor (HC-SR04)            |[ https://amzn.in/d/09fDYpCs](https://amzn.in/d/06BRSXYJ)  |
 | Adapter                           | 2           |  Buzzer for audio signal             |[ https://amzn.in/d/0jjuc7f8 ](https://www.amazon.in/dp/B0B5V42269?ref_=cm_sw_r_cp_ud_dp_80HH41CQJPGXA3W94H92) | 
 
-#  Car part pin connection
+#  Car Part Pin connection:
 
 | Components                        |                           |                                      |                             
 | :---:                             | :---:                     | :---:                                |
