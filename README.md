@@ -15,7 +15,7 @@
 
 | Item                              | Quantity    | Description                          |    links of products        | 
 | :---:                             | :---:       | :---:                                | :---:                       |
-| ESP32-Devkit                      | 2           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
+| ESP32-Devkit                      | 2           | Microcontroller board                | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0iFXkja9) |
 | Wireless Charging Module          | 1           | --                                   | https://amzn.in/d/09fDYpCs  |
 | ICC LCD                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
 | Li-Ion Battery Charging Module    | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
