@@ -25,6 +25,22 @@
 | Relay Board                       | 1           | Standard sensor (HC-SR04)            |[ https://amzn.in/d/09fDYpCs](https://amzn.in/d/06BRSXYJ)  |
 | Adapter                           | 2           |  Buzzer for audio signal             |[ https://amzn.in/d/0jjuc7f8 ](https://www.amazon.in/dp/B0B5V42269?ref_=cm_sw_r_cp_ud_dp_80HH41CQJPGXA3W94H92) | 
 
+#  Car part pin connection
+
+| Components                        |                           |                                      |                             
+| :---:                             | :---:                     | :---:                                |
+| ESP32                             | Pin16                     | se                                   | 
+|                                   | Pin17                     | sc                                   | 
+|                                   | Pin19                     | sd                                   |
+|                                   | Pin21                     | pb2                                  | 
+|                                   | Pin22                     | pb                                   | 
+|                                   | Pin30:GND                 | GND                                  | 
+|                                   | GPIO Pins (Digital I/O )  | Sensor,led,motor drive               | 
+|                                   | Pin15:VIN                 | PW in                                |
+|                                   | Pin21                     | pb2                                  | 
+|                                   | Pin22                     | pb                                   | 
+|                                   | Pin30:GND                 | GND                                  | 
+ 
 # Pinout diagram
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/fea8ab8c-b55d-4f03-9d84-259d996d9fad)
 
