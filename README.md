@@ -16,14 +16,14 @@
 | Item                              | Quantity    | Description                          |    links of products        | 
 | :---:                             | :---:       | :---:                                | :---:                       |
 | ESP32-Devkit                      | 2           | Microcontroller board                | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0iFXkja9) |
-| Wireless Charging Module          | 1           | --                                   | https://amzn.in/d/09fDYpCs  |
+| Wireless Charging Module          | 1           | --                                   | [https://amzn.in/d/09fDYpCs](https://amzn.in/d/0cpaSmdk)  |
 | ICC LCD                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
 | Li-Ion Battery Charging Module    | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
-| Solar panel                       | 1           | --                                   | https://amzn.in/d/0iPO9ODt  |
-| RFID Reader                       | 1           | Vibration Motor for tactile feedback | https://amzn.in/d/0351O0Iw  |
+| Solar panel                       | 1           | --                                   | [https://amzn.in/d/0iPO9ODt ](https://amzn.in/d/005uP3qb) |
+| RFID Reader                       | 1           | Vibration Motor for tactile feedback | [https://amzn.in/d/0351O0Iw ](https://www.amazon.in/dp/B09PZ3NB4Q?ref_=cm_sw_r_cp_ud_dp_31MHW1GD4QEBWAZJZR5X_2) |
 | RFID Card                         | 1           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
-| Relay Board                       | 1           | Standard sensor (HC-SR04)            | https://amzn.in/d/09fDYpCs  |
-| Adapter                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
+| Relay Board                       | 1           | Standard sensor (HC-SR04)            |[ https://amzn.in/d/09fDYpCs](https://amzn.in/d/06BRSXYJ)  |
+| Adapter                           | 2           |  Buzzer for audio signal             |[ https://amzn.in/d/0jjuc7f8 ](https://www.amazon.in/dp/B0B5V42269?ref_=cm_sw_r_cp_ud_dp_80HH41CQJPGXA3W94H92) | 
 
 # Pinout diagram
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/fea8ab8c-b55d-4f03-9d84-259d996d9fad)
