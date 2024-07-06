@@ -47,7 +47,28 @@
 |                                   | Pin 15:SIG                | Signal from ESP-32                   | 
 |                                   | Pin 3:NC                  |                                      | 
 |                                   | Pin 5:NO                  |                                      |
- 
+
+# EV Charging Station Pin Connection:
+| Components                        |                           |                                      |                             
+| :---:                             | :---:                     | :---:                                |
+| ESP32 Devkit V1 (U1)              | Pin : GND                 | GND                                  | 
+|                                   | Pin 21:VC                 | 5V power supply                      | 
+|                                   | Pin 22:(D23)              | SD                                   |
+|                                   | Pin 22:(D22)              | SC                                   | 
+|                                   | Pin 23:(RXD)              | RX1 through DIP switch               | 
+|                                   | Pin 24:(TXD)              | TX1 through DIP switch               | 
+|                                   | Pin 25:(D21)              | Csig                                 |
+|                                   | Pin 26:(D19)              | RX                                   |
+|                                   | Pin 27:(D18)              | TX                                   | 
+| GSM Module (GSM1)                 | Pin 1                     | Antenna                              | 
+|                                   | Pin 2                     | 3.7V power input                     |
+|                                   | Pin 6:(GND)               | GND                                  |
+|                                   | Pin 3:(Rst)               | Reset                                |
+|                                   | Pin 4:(RX1)               | To RX1 via R3(10kohm)                | 
+|                                   | Pin 5:(TX1)               | To tX1 via R2(20kohm)                |
+|                                   | Pin 1: VCC                | 5V power supply                      | 
+| LCS Display(LCD1)                 | Pin 2:(GND)               | GND                                  |
+
 # Pinout diagram
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/fea8ab8c-b55d-4f03-9d84-259d996d9fad)
 
