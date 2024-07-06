@@ -37,9 +37,16 @@
 |                                   | Pin30:GND                 | GND                                  | 
 |                                   | GPIO Pins (Digital I/O )  | Sensor,led,motor drive               | 
 |                                   | Pin15:VIN                 | PW in                                |
-|                                   | Pin21                     | pb2                                  | 
-|                                   | Pin22                     | pb                                   | 
-|                                   | Pin30:GND                 | GND                                  | 
+| DEO1A-G Battery Protection IC(U2) | Pin 5:VID                 | Power Supply                         | 
+|                                   | Pin 3,6 :GND              | GND                                  | 
+|                                   | Pin 1                     | OC(over current)                     |
+|                                   | Pin 2                     | CS(current sensing)                  | 
+|                                   | Pin 4                     | TD(time delay)                       |
+| Relay (J2)                        | Pin 13:GND                | GND                                  | 
+|                                   | Pin 14:VCC                | Power Supply                         | 
+|                                   | Pin 15:SIG                | Signal from ESP-32                   | 
+|                                   | Pin 3:NC                  |                                      | 
+|                                   | Pin 5:NO                  |                                      |
  
 # Pinout diagram
 ![WhatsApp Image 2024-07-04 at 5 57 59 PM](https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/fea8ab8c-b55d-4f03-9d84-259d996d9fad)
