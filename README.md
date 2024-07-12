@@ -8,8 +8,6 @@
 <h2>OVERVIEW:</h2>
 <p>The increased power consumption involves more quality and reliability to regulate electricity flows, less mismatching between electricity generation and demand, and more integrated renewable energies. Thus, the system consists of two charging sources available one is implemented on solar energy system and another is grid based on requirement and availability it automatically swtiches. The wireless system is implemented which will charge the vehicle wirelessly and send the SMS notification to the user regarding the cost of the charge when the charging is complete. The same is displayed on LCD. The second part is Vehicle consisting of RFID reader abd wireless charge reciver. Once charging is completed total cost of charging is calculated and sent to owner using GSM modem. The IOT based application to track different locations of charging stations.</p>
 
-<h2>Conclusion:</h2>
-<p>The project deals with the concept of smart integrated wireless charging and tracking system for elective vehicles using solar energy and IOT. From the project we can conclude that the proposed project can be useful to automatically switch over to the solar energy for the purpose of the charging. We can further conclude that the developed system can easily be scaled to the actual charging stations. The system will perform wireless charging of the electric vehicles and notify the owners the charge regarding the same. The proposed project can also help the users of the electric vehicles to track the location of charging stations nearby making it easier to find out the charging stations. The App is developed which will help the users of the electric vehicles to track the status of charging and the charge using IOT.</p>
 
 # Component required with Bill of Material:
 
@@ -17,7 +15,7 @@
 | :---:                             | :---:       | :---:                                | :---:                       |
 | ESP32-Devkit                      | 2           | Microcontroller board                | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0iFXkja9) |
 | Wireless Charging Module          | 1           | --                                   | [https://amzn.in/d/09fDYpCs](https://amzn.in/d/0cpaSmdk)  |
-| ICC LCD                           | 2           |  Buzzer for audio signal             | https://amzn.in/d/0jjuc7f8  | 
+| ICC LCD                           | 2           |  Buzzer for audio signal             | [ https://amzn.in/d/0jjuc7f8](https://amzn.in/d/085QoUza)  | 
 | Li-Ion Battery Charging Module    | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
 | Solar panel                       | 1           | --                                   | [https://amzn.in/d/0iPO9ODt ](https://amzn.in/d/005uP3qb) |
 | RFID Reader                       | 1           | Vibration Motor for tactile feedback | [https://amzn.in/d/0351O0Iw ](https://www.amazon.in/dp/B09PZ3NB4Q?ref_=cm_sw_r_cp_ud_dp_31MHW1GD4QEBWAZJZR5X_2) |
@@ -82,3 +80,5 @@
 # Demo Video:
 https://github.com/jaine-bharati/wirless-charging-system-project/assets/171180747/b0a560fc-ba2f-4bb8-9b66-1cd2f2b08ef7
 
+<h2>Conclusion:</h2>
+<p>The project deals with the concept of smart integrated wireless charging and tracking system for elective vehicles using solar energy and IOT. From the project we can conclude that the proposed project can be useful to automatically switch over to the solar energy for the purpose of the charging. We can further conclude that the developed system can easily be scaled to the actual charging stations. The system will perform wireless charging of the electric vehicles and notify the owners the charge regarding the same. The proposed project can also help the users of the electric vehicles to track the location of charging stations nearby making it easier to find out the charging stations. The App is developed which will help the users of the electric vehicles to track the status of charging and the charge using IOT.</p>
