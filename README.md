@@ -11,17 +11,17 @@
 
 # Component required with Bill of Material:
 
-| Item                              | Quantity    | Description                          |    links of products        | 
-| :---:                             | :---:       | :---:                                | :---:                       |
-| ESP32-Devkit                      | 2           | Microcontroller board                | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0iFXkja9) |
-| Wireless Charging Module          | 1           | --                                   | [https://amzn.in/d/09fDYpCs](https://amzn.in/d/0cpaSmdk)  |
-| ICC LCD                           | 2           |  Buzzer for audio signal             | [ https://amzn.in/d/0jjuc7f8](https://amzn.in/d/085QoUza)  | 
-| Li-Ion Battery Charging Module    | 1           | (9V,300MH)                           | https://amzn.in/d/08mS8YMR  | 
-| Solar panel                       | 1           | --                                   | [https://amzn.in/d/0iPO9ODt ](https://amzn.in/d/005uP3qb) |
-| RFID Reader                       | 1           | Vibration Motor for tactile feedback | [https://amzn.in/d/0351O0Iw ](https://www.amazon.in/dp/B09PZ3NB4Q?ref_=cm_sw_r_cp_ud_dp_31MHW1GD4QEBWAZJZR5X_2) |
-| RFID Card                         | 1           | Microcontroller board                |  https://amzn.in/d/06Ng27mP |
-| Relay Board                       | 1           | Standard sensor (HC-SR04)            |[ https://amzn.in/d/09fDYpCs](https://amzn.in/d/06BRSXYJ)  |
-| Adapter                           | 2           |  Buzzer for audio signal             |[ https://amzn.in/d/0jjuc7f8 ](https://www.amazon.in/dp/B0B5V42269?ref_=cm_sw_r_cp_ud_dp_80HH41CQJPGXA3W94H92) | 
+| Item                              | Quantity    | Description                            |    links of products        | 
+| :---:                             | :---:       | :---:                                  | :---:                       |
+| ESP32-Devkit                      | 2           | Microcontroller board                  | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0iFXkja9) |
+| Wireless Charging Module          | 1           | TO transfer energy between two objects | [https://amzn.in/d/09fDYpCs](https://amzn.in/d/0cpaSmdk)  |
+| ICC LCD                           | 2           | Output display                         | [ https://amzn.in/d/0jjuc7f8](https://amzn.in/d/085QoUza)  | 
+| Li-Ion Battery Charging Module    | 1           | TP4056 C Type charging module          | [https://amzn.in/d/08mS8YMR](https://amzn.in/d/0fadjajC)  | 
+| Solar panel                       | 1           | renewable energy source                | [https://amzn.in/d/0iPO9ODt ](https://amzn.in/d/005uP3qb) |
+| RFID Reader                       | 1           | To read RFID card                      | [https://amzn.in/d/0351O0Iw ](https://www.amazon.in/dp/B09PZ3NB4Q?ref_=cm_sw_r_cp_ud_dp_31MHW1GD4QEBWAZJZR5X_2) |
+| RFID Card                         | 1           | Wireless communication                 | [ https://amzn.in/d/06Ng27mP](https://amzn.in/d/0jb8S7oR) |
+| Relay Board                       | 1           | Electrically operating switch          | [ https://amzn.in/d/09fDYpCs](https://amzn.in/d/06BRSXYJ)  |
+| Adapter                           | 2           | Constant power supply                  | [ https://amzn.in/d/0jjuc7f8 ](https://www.amazon.in/dp/B0B5V42269?ref_=cm_sw_r_cp_ud_dp_80HH41CQJPGXA3W94H92) | 
 
 #  Car Part Pin connection:
 
