@@ -97,5 +97,5 @@ https://github.com/user-attachments/assets/4abe306a-9900-48fc-871f-671fefec3e35
 <p>The project deals with the concept of smart integrated wireless charging and tracking system for elective vehicles using solar energy and IOT. From the project we can conclude that the proposed project can be useful to automatically switch over to the solar energy for the purpose of the charging. We can further conclude that the developed system can easily be scaled to the actual charging stations. The system will perform wireless charging of the electric vehicles and notify the owners the charge regarding the same. The proposed project can also help the users of the electric vehicles to track the location of charging stations nearby making it easier to find out the charging stations. The App is developed which will help the users of the electric vehicles to track the status of charging and the charge using IOT.</p>
 
 
-[ppt iiit.pptx](https://github.com/user-attachments/files/16202901/ppt.iiit.pptx)
+[Presentation](https://github.com/user-attachments/files/16202901/ppt.iiit.pptx)
 
